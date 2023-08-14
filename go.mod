@@ -20,7 +20,7 @@ require (
 	github.com/lib/pq v1.10.6
 	github.com/lithammer/shortuuid/v4 v4.0.0
 	github.com/open-policy-agent/opa v0.54.0
-	github.com/ory/kratos-client-go v0.11.1
+	github.com/ory/kratos-client-go v0.13.1
 	github.com/spf13/cobra v1.7.0
 	github.com/stretchr/testify v1.8.2
 	github.com/swaggo/echo-swagger v1.4.0
