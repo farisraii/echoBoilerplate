@@ -7,12 +7,12 @@ import (
 	"fmt"
 
 	"github.com/Masterminds/squirrel"
-	"github.com/dzungtran/echo-rest-api/infrastructure/datastore"
-	"github.com/dzungtran/echo-rest-api/modules/core/domains"
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
-	"github.com/dzungtran/echo-rest-api/pkg/contexts"
-	sqlTools "github.com/dzungtran/echo-rest-api/pkg/sql-tools"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/farisraii/echoBoilerplate/infrastructure/datastore"
+	"github.com/farisraii/echoBoilerplate/modules/core/domains"
+	"github.com/farisraii/echoBoilerplate/pkg/constants"
+	"github.com/farisraii/echoBoilerplate/pkg/contexts"
+	sqlTools "github.com/farisraii/echoBoilerplate/pkg/sql-tools"
+	"github.com/farisraii/echoBoilerplate/pkg/utils"
 	"github.com/jmoiron/sqlx"
 )
 
