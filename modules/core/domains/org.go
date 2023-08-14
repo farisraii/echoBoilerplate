@@ -5,8 +5,8 @@ package domains
 import (
 	"time"
 
-	"github.com/dzungtran/echo-rest-api/pkg/cue"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/farisraii/echoBoilerplate/pkg/cue"
+	"github.com/farisraii/echoBoilerplate/pkg/utils"
 )
 
 type Org struct {
